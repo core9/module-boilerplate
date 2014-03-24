@@ -9,6 +9,7 @@ Steps:
 - Start coding
 
 To use the Core9 Framework, you can add the Core9 Core to the dependencies with:
-	apiCompile 'io.core9:core-api:+'
+
+    apiCompile 'io.core9:core-api:+'
 
 Happy coding!
